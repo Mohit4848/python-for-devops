@@ -1,0 +1,3 @@
+Info = 10
+Error = 3
+Warning = 2
